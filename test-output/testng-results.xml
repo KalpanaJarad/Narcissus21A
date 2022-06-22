@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T08:14:12 IST" name="Default suite" finished-at="2022-06-16T08:14:39 IST" duration-ms="27077">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T08:14:12 IST" name="Default test" finished-at="2022-06-16T08:14:39 IST" duration-ms="27077">
+      <class name="narcissus.HomePageTest">
+        <test-method signature="verifySearchResultsForShoes()[pri:0, instance:narcissus.HomePageTest@63a12c68]" started-at="2022-06-16T08:14:12 IST" name="verifySearchResultsForShoes" finished-at="2022-06-16T08:14:39 IST" duration-ms="27014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchResultsForShoes -->
+      </class> <!-- narcissus.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
